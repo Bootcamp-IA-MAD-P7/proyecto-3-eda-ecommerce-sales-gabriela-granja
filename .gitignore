@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Dataset
+data/raw/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
